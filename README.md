@@ -100,9 +100,13 @@ means: station "test" will transmit on 999kHz AM for 24 hours every 17th of June
 
 #### I want to repeat... please SHARE your list files with this project and their users sending it to me.
 
+## [SDR Console](https://www.sdr-radio.com) client config
+
+See [sdrconsole.pdf](https://github.com/IU2MEH/shiva2/blob/master/sdrconsole.pdf)
+
 ## Authors
 
-* **Walter Panella IU2MEH** - *Initial work*
+* **Walter Panella [IU2MEH](https://iu2meh.blogspot.com)** - *Initial work*
 
 ## Known Bugs
 --
