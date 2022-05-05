@@ -6,7 +6,7 @@ It is intended to use with SDR Console for SWL/BCL ( see screenshots folder ) so
 Priyom.org number stations are sent for 1 hour since the start of transmission.
 
 ## Block diagram:
-see [block.pdf](https://github.com/IU2MEH/shiva2/blob/main/block.pdf)
+see [block.pdf](https://github.com/IU2MEH/shiva2/blob/master/block.pdf)
  
 
 ## Getting started
